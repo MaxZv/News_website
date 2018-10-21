@@ -1,0 +1,22 @@
+    body{
+    background-image: url(http://www.backgroundsy.com/file/large/warm-colors-background.jpg);
+        display: flex;
+        flex-direction: column;
+    }
+    .content{
+        margin-top: 30px;
+        flex-grow: 1;
+    }
+    .img-center{
+        margin-left: 30px;
+    }
+
+    footer{
+        background-image: url(https://img1.liveinternet.ru/images/attach/c/1//59/739/59739614_d4fde339cd53.jpg);
+        height: 100%;
+        flex-grow: 0;
+    }
+    .info{
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
